@@ -41,7 +41,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or feedback, please reach out to us at [your-email@example.com](mailto:nkiprono589@gmail.com).
+If you have any questions or feedback, please reach out to us at [Analytica](mailto:nkiprono589@gmail.com).
 
 ---
 
