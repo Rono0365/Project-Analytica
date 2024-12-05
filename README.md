@@ -29,7 +29,7 @@ this version is still buggy i'm releasing a fix on this
 
 ## Contributing
 
-We welcome contributions to Analytica! Please read our [contributing guide](CONTRIBUTING.md) to get started.
+We welcome contributions to Analytica! Please read our [contributing guide](https://github.com/Rono0365/Project-Analytica/blob/main/contribution.md) to get started.
 
 ## License
 
