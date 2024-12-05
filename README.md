@@ -14,15 +14,11 @@ Analytica is a powerful platform designed to view and analyze user data collecte
 
 ## Getting Started
 
-### Prerequisites
-
-- List any prerequisites or system requirements here
-
+this version is still buggy i'm releasing a fix on this
 
 
 ## Usage
 
-Provide basic usage instructions here. For example:
 
 1. Log in to the Analytica dashboard.
 2. Connect your apps using the provided API keys.
