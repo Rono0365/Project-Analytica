@@ -1,12 +1,12 @@
-# # # Welcome to Contributing to Analytica!
+# Welcome to Contributing to Analytica!
 
 Analytica is a powerful platform designed to empower you with user insights. We value your contributions and believe they can make Analytica even better for everyone. This document outlines how you can get involved.
 
-# # Ways to Contribute
+# Ways to Contribute
 
 # Here are some ways to make a difference, regardless of your background:
 
-**Report Bugs:  Encountered an issue? Help us fix it! Report bugs by:
+__Report Bugs:  Encountered an issue? Help us fix it! Report bugs by:
 
 __Creating an issue on the [Analytica project repository](link to your project repository, if available).
 __Contacting Analytica Support ([link to support page if available]).
